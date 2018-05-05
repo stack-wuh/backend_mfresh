@@ -7,7 +7,7 @@
 
 这个是练习的一个小项目,只有四个模块.
 
-1.1 cart 购物车
-1.2 user 用户
-1.3 product 发布
-1.4 news 新闻
+1.1 cart 购物车  
+1.2 user 用户  
+1.3 product 发布  
+1.4 news 新闻  
